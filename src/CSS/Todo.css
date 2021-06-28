@@ -1,0 +1,76 @@
+.newTask{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-bottom: 100px;
+}
+.todoList{
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-right: 80px;
+    margin-bottom: 100px;
+}
+.bodys{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.inputs {
+   width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0px 30px 0px;
+  box-sizing: border-box;
+}
+.text {
+    text-align: left;
+}
+ .todo-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.todo {
+    width: 100%;
+    border: 1px solid black;
+    padding: 12px 20px;
+    margin: 0px 0px 0px 0px;
+    box-sizing: border-box;
+    text-align: left;
+}
+.lefts{
+    float: left;
+    width: 100%;
+}
+.button{
+    float: right;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 10%;
+}
+.button-add{
+    width: 100%;
+    height: 30px;
+    background-color: green;
+    color: antiquewhite;
+    border-radius: 10%;
+    margin-bottom: 20px;
+}
+.app-lefts{
+    float: left;
+    width: 50%;
+} 
+.app-rights{
+    float: right;
+    width: 50%;
+}
+.remove{
+    background-color: red;
+    color: antiquewhite;
+}
+.done{
+    background-color: blue;
+    color: antiquewhite;
+}
+.todo-detail{
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
